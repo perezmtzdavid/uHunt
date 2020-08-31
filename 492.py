@@ -19,9 +19,3 @@ for text in lines:
             word = ''
 
 print(out_text[:-1])
-
-        
-
-
-
-
